@@ -1,0 +1,15 @@
+---
+- mystudents: 
+    - name: anil
+      phone: 898944646
+      adress: hyd
+  
+    - name: anil
+      phone: 16161616
+      adress: vzk
+  
+
+    - name: anil
+      phone: 9946161
+      adress: hyd
+  
